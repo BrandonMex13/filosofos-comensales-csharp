@@ -1,0 +1,11 @@
+C:\Users\brand\source\repos\Filo\Filo\bin\Debug\netcoreapp3.0\Filo.exe
+C:\Users\brand\source\repos\Filo\Filo\bin\Debug\netcoreapp3.0\Filo.deps.json
+C:\Users\brand\source\repos\Filo\Filo\bin\Debug\netcoreapp3.0\Filo.runtimeconfig.json
+C:\Users\brand\source\repos\Filo\Filo\bin\Debug\netcoreapp3.0\Filo.runtimeconfig.dev.json
+C:\Users\brand\source\repos\Filo\Filo\bin\Debug\netcoreapp3.0\Filo.dll
+C:\Users\brand\source\repos\Filo\Filo\bin\Debug\netcoreapp3.0\Filo.pdb
+C:\Users\brand\source\repos\Filo\Filo\obj\Debug\netcoreapp3.0\Filo.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\Filo\Filo\obj\Debug\netcoreapp3.0\Filo.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\Filo\Filo\obj\Debug\netcoreapp3.0\Filo.AssemblyInfo.cs
+C:\Users\brand\source\repos\Filo\Filo\obj\Debug\netcoreapp3.0\Filo.dll
+C:\Users\brand\source\repos\Filo\Filo\obj\Debug\netcoreapp3.0\Filo.pdb
